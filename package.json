@@ -39,6 +39,9 @@
       "jquery": true,
       "jasmine": true
     },
+    "globals": {
+      "myregexp": false
+    },
     "rules": {
       "quotes": [
         2,
